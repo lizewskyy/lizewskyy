@@ -6,20 +6,20 @@
 Possuo facilidade para aprender novas tecnologias, raciocínio lógico apurado e sou movida por desafios que exigem organização, criatividade e colaboração.
 
 ### Tecnologias e práticas aplicadas:
-Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
-Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
-Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
+- Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
+- Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
+- Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
 ### Boas práticas:
-Clean Code, CI/CD,
-testes unitários,
-cultura DevOps,
-metodologias ágeis (Scrum, Kanban)
+- Clean Code, CI/CD,
+- testes unitários,
+- cultura DevOps,
+- metodologias ágeis (Scrum, Kanban)
 ### Soft skills:
-Comunicação clara,
-adaptabilidade,
-organização,
-foco em resultados,
-trabalho em equipe,
-empatia,
-aprendizado contínuo.
+- Comunicação clara,
+- adaptabilidade,
+- organização,
+- foco em resultados,
+- trabalho em equipe,
+- empatia,
+- aprendizado contínuo.
 Atualmente, busco oportunidades como Desenvolvedor Júnior, em ambientes que valorizem o crescimento técnico, o apoio entre equipes e o desenvolvimento profissional.
