@@ -3,7 +3,7 @@
 <hr><hr>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=11F738&width=500&lines=....+Welcome+to+my+Profile+....;System.println(%22Hello+World!%22);console.log(%22Hello+World!%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=4000&size=22&pause=1000&color=00F722&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=....Welcome+to+my+Profile....%3CSystem.println(%22Hello+World%22);%3Cconsole.log('Hello+World');)](https://git.io/typing-svg)
 
 <br><br>
 <hr><hr>
