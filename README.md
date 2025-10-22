@@ -1,19 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F738&width=754&lines=....+Welcome+to+my+Profile+....;System.println(%22Hello+World!%22);console.log(%22Hello+World!%22))](https://git.io/typing-svg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br>
+<hr><hr>
+<br><br>
 ### Olá meu nome é Gabriel,
 💻👩🏽‍💻 Desenvolvedor de software com experiência no desenvolvimento de aplicações web full stack, focada em entregar soluções funcionais, escaláveis e orientadas à resolução de problemas reais.
 
