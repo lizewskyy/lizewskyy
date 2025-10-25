@@ -14,8 +14,8 @@
 Possuo facilidade para aprender novas tecnologias, raciocínio lógico apurado e sou movida por desafios que exigem organização, criatividade e colaboração.
 
 ### Tecnologias e práticas aplicadas:
-- Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
-- Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
+- Front-end: Vite, JavaScript, Reactjs, TailwindCSS, responsividade, componentização, UX/UI
+- Back-end: Node.js, Java, Spring Boot, Express.js, Appwrite, JWT (autenticação)
 - Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
 ### Boas práticas:
 - Clean Code, CI/CD,
